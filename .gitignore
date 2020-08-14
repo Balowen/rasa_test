@@ -87,3 +87,4 @@ docs/docs/changelog.mdx
 
 # Local Netlify folder
 .netlify
+/results/
